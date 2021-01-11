@@ -65,3 +65,17 @@ The project focuses around a set of diseases, their mortality rate, patients who
 ![](images/Fact_table.PNG)
 
 ![](images/fact_etl.PNG)
+
+
+# Business Analytics Queries with Tableau Dashboard:
+![](images/Business_Analytics_Query1.PNG)
+
+![](images/Tableau_Result_Query%231.png)
+
+![](images/Business_Analytics_Query2.PNG)
+
+![](images/Tableau_Result_Query%232.png)
+
+![](images/Business_Analytics_Query3.PNG)
+
+![](images/Tableau_Result_Query%233.png)
