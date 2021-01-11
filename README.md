@@ -54,4 +54,13 @@ The project focuses around a set of diseases, their mortality rate, patients who
 ![](images/DML_Showing_Referential_Integrity_1.PNG)
 ![](images/DML_Showing_Referential_Integrity_2.PNG)
 
-# Data Warehouse (ETL Processess & Server Side Code)
+# Data Warehouse (ETL Processess & Server Side Code):
+![](images/ELT_1.PNG)
+![](images/ELT_2.PNG)
+![](images/ELT_3.PNG)
+![](images/ELT_4.PNG)
+![](images/ELT_5.PNG)
+![](images/view.PNG)
+![](images/Fact_table.PNG)
+![](images/fact_etl_1.PNG)
+![](images/fact_etl_2.PNG)
