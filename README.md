@@ -79,3 +79,12 @@ The project focuses around a set of diseases, their mortality rate, patients who
 ![](images/Business_Analytics_Query3.PNG)
 
 ![](images/Tableau_Result_Query%233.png)
+
+# Project in a NOSQL Environment:
+![](images/nosql.PNG)
+![](images/NoSQL_Discussion.PNG)
+
+# Project in an AWS Environment:
+![](images/AWS_Architecture_1.PNG)
+![](images/AWS_Architecture_2.PNG)
+![](images/AWS_Architecture_3.PNG)
