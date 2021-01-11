@@ -12,7 +12,7 @@ The project focuses around a set of diseases, their mortality rate, patients who
 6. How this project will run in a NOSQL Database.
 7. How can this project run if AWS is used and how it can be resilient and high-performing and secure.
 
-# Data Model 
+# Data Model:
 ![](images/ERD.png)
 
 # Data Dictionary:
@@ -30,7 +30,7 @@ The project focuses around a set of diseases, their mortality rate, patients who
 ![](images/Data_dictionary_12.png)
 ![](images/Data_dictionary_13.png)
 
-# Physical Database (OLTP)
+# Physical Database (OLTP):
 ![](images/oltp_1.PNG)
 ![](images/oltp_2.PNG)
 ![](images/oltp_3.PNG)
@@ -41,3 +41,17 @@ The project focuses around a set of diseases, their mortality rate, patients who
 ![](images/oltp_8.PNG)
 ![](images/oltp_9.PNG)
 ![](images/oltp_10.PNG)
+
+# DML Showing Business Change:
+![](images/DML_Business_Change_1.PNG)
+![](images/DML_Business_Change_2.PNG)
+![](images/DML_Business_Change_3.PNG)
+![](images/DML_Business_Change_4.PNG)
+![](images/DML_Business_Change_5.PNG)
+![](images/DML_Business_Change_6.PNG)
+
+# DML Showing Referential Behavior:
+![](images/DML_Showing_Referential_Integrity_1.PNG)
+![](images/DML_Showing_Referential_Integrity_2.PNG)
+
+# Data Warehouse (ETL Processess & Server Side Code)
