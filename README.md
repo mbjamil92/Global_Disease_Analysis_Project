@@ -11,3 +11,22 @@ The project focuses around a set of diseases, their mortality rate, patients who
 5. Run business analytical queries and show the results in Tableau.
 6. How this project will run in a NOSQL Database.
 7. How can this project run if AWS is used and how it can be resilient and high-performing and secure.
+
+# Data Model 
+![](images/ERD.png)
+
+# Data Dictionary:
+![](images/Data_dictionary_1.png)
+![](images/Data_dictionary_2.png)
+![](images/Data_dictionary_3.png)
+![](images/Data_dictionary_4.png)
+![](images/Data_dictionary_5.png)
+![](images/Data_dictionary_6.png)
+![](images/Data_dictionary_7.png)
+![](images/Data_dictionary_8.png)
+![](images/Data_dictionary_9.png)
+![](images/Data_dictionary_10.png)
+![](images/Data_dictionary_11.png)
+![](images/Data_dictionary_12.png)
+![](images/Data_dictionary_13.png)
+
