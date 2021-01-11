@@ -63,4 +63,5 @@ The project focuses around a set of diseases, their mortality rate, patients who
 ![](images/view.PNG)
 
 ![](images/Fact_table.PNG)
+
 ![](images/fact_etl.PNG)
